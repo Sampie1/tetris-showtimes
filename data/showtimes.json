@@ -1,0 +1,149 @@
+[
+    {
+        "monday": [
+            {
+                "showtime_start": "09:30",
+                "showtime_end": "11:30"
+            },
+            {
+                "showtime_start": "12:30",
+                "showtime_end": "14:30"
+            },
+            {
+                "showtime_start": "15:30",
+                "showtime_end": "17:30"
+            },
+            {
+                "showtime_start": "18:30",
+                "showtime_end": "20:30"
+            },
+            {
+                "showtime_start": "21:30",
+                "showtime_end": "23:30"
+            }
+        ]
+    },
+    {
+        "tuesday": [
+            {
+                "showtime_start": "08:00",
+                "showtime_end": "10:00"
+            },
+            {
+                "showtime_start": "11:00",
+                "showtime_end": "13:00"
+            },
+            {
+                "showtime_start": "14:00",
+                "showtime_end": "16:00"
+            },
+            {
+                "showtime_start": "17:00",
+                "showtime_end": "19:00"
+            },
+            {
+                "showtime_start": "20:00",
+                "showtime_end": "22:00"
+            }
+        ]
+    },
+    {
+        "wednesday": [
+            {
+                "showtime_start": "09:00",
+                "showtime_end": "11:00"
+            },
+            {
+                "showtime_start": "12:00",
+                "showtime_end": "14:00"
+            },
+            {
+                "showtime_start": "15:00",
+                "showtime_end": "17:00"
+            },
+            {
+                "showtime_start": "18:00",
+                "showtime_end": "20:00"
+            },
+            {
+                "showtime_start": "21:00",
+                "showtime_end": "23:00"
+            }
+        ]
+    },
+    {
+        "thursday": [
+            {
+                "showtime_start": "10:30",
+                "showtime_end": "12:30"
+            },
+            {
+                "showtime_start": "13:30",
+                "showtime_end": "15:30"
+            },
+            {
+                "showtime_start": "16:30",
+                "showtime_end": "18:30"
+            },
+            {
+                "showtime_start": "19:30",
+                "showtime_end": "21:30"
+            },
+            {
+                "showtime_start": "22:30",
+                "showtime_end": "00:30"
+            }
+        ]
+    },
+    {
+        "friday": [
+            {
+                "showtime_start": "11:00",
+                "showtime_end": "13:00"
+            },
+            {
+                "showtime_start": "14:00",
+                "showtime_end": "16:00"
+            },
+            {
+                "showtime_start": "17:00",
+                "showtime_end": "19:00"
+            },
+            {
+                "showtime_start": "20:00",
+                "showtime_end": "22:00"
+            },
+            {
+                "showtime_start": "23:00",
+                "showtime_end": "01:00"
+            }
+        ]
+    },
+    {
+        "saturday": [
+            {
+                "showtime_start": "09:15",
+                "showtime_end": "11:15"
+            },
+            {
+                "showtime_start": "12:15",
+                "showtime_end": "14:15"
+            },
+            {
+                "showtime_start": "15:15",
+                "showtime_end": "17:15"
+            },
+            {
+                "showtime_start": "18:15",
+                "showtime_end": "20:15"
+            },
+            {
+                "showtime_start": "21:15",
+                "showtime_end": "23:15"
+            }
+        ]
+    },
+    {
+        "sunday": []
+    }
+]
